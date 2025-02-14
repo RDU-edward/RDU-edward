@@ -6,7 +6,7 @@ Developer
 
 I've been learning how to Code for 3 years. I started in HTML / CSS and now I know how to fix Electric fan, Cellphone, TV, Printer etc.
 
-* 🌍  I'm based in Bogo City, Cebu
+* 🌍  I based in Bogo City, Cebu
 * ✉️  You can contact me at [catapan.edward@wealthbank.com.ph](mailto:catapan.edward@wealthbank.com.ph)
 * 🧠  I'm learning On how to fix Broken Refrigerator
 * 🤝  I'm open to collaborating on new interesting project like Artificial Intelligence that can Predict Lotto result.
