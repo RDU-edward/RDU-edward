@@ -10,7 +10,7 @@ I've been learning how to Code for 3 years. I started in HTML / CSS and now I kn
 * ✉️  You can contact me at [catapan.edward@wealthbank.com.ph](mailto:catapan.edward@wealthbank.com.ph)
 * 🧠  I'm learning On how to fix Broken Refrigerator
 * 🤝  I'm open to collaborating on new interesting project like Artificial Intelligence that can Predict Lotto result.
-* ⚡  I'm secretly a dancer, please dont tell anyone
+* ⚡  No Risk, No Story!
 
 ### Skills
 
